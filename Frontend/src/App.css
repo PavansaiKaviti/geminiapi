@@ -1,0 +1,21 @@
+header {
+  text-align: center;
+}
+.App {
+  width: 500px;
+  background-color: aliceblue;
+  height: 700px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 450px;
+}
+.answer {
+  background-color: rgb(243, 243, 242);
+  color: rgb(8, 7, 7);
+  padding: 15px;
+  width: 90%;
+  height: 465px;
+  overflow: scroll;
+  margin-left: 10px;
+  border: 1px solid #ccc;
+}

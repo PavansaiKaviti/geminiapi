@@ -1,0 +1,7 @@
+body {
+  background: linear-gradient(to right, rgb(147, 234, 147), rgb(233, 106, 81));
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  font-weight: 500;
+}
